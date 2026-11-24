@@ -3,3 +3,6 @@ node_modules/
 punishments.sqlite
 punishments.sqlite-shm
 punishments.sqlite-wal
+account-links.sqlite
+account-links.sqlite-shm
+account-links.sqlite-wal
